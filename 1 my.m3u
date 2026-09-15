@@ -1,0 +1,369 @@
+#EXTM3U
+#EXTINF:0, tvg-id="daserste.de" tvg-logo="Logo N/A" tvg-name="ard"  group-title="tv",ard
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15347.ts
+#EXTINF:0, tvg-id="zdf.de" tvg-logo="Logo N/A" tvg-name="zdf"  group-title="tv",zdf
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15348.ts
+#EXTINF:0, tvg-id="wdrwuppertal.de" tvg-logo="Logo N/A" tvg-name="wdr"  group-title="tv",wdr
+http://line.mytvtvone.com/live/94KCNL/14UDYG/1025454.ts
+#EXTINF:0, tvg-id="rtl.de" tvg-logo="Logo N/A" tvg-name="rtl"  group-title="tv",rtl
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15349.ts
+#EXTINF:0, tvg-id="ProSieben.de" tvg-logo="Logo N/A" tvg-name="prosieben"  group-title="tv",prosieben
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15354.ts
+#EXTINF:0, tvg-id="KabelEins.de" tvg-logo="Logo N/A" tvg-name="kabel eins"  group-title="tv",kabel eins
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15359.ts
+#EXTINF:0, tvg-id="sat1.de" tvg-logo="Logo N/A" tvg-name="sat.1"  group-title="tv",sat.1
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15351.ts
+#EXTINF:0, tvg-id="dmax.de" tvg-logo="Logo N/A" tvg-name="dmax"  group-title="tv",dmax
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15376.ts
+#EXTINF:0, tvg-id="rtlzwei.de" tvg-logo="Logo N/A" tvg-name="rtl ii"  group-title="tv",rtl ii
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15350.ts
+#EXTINF:0, tvg-id="tlc.de" tvg-logo="Logo N/A" tvg-name="tlc"  group-title="tv",tlc
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15433.ts
+#EXTINF:0, tvg-id="vox.de" tvg-logo="Logo N/A" tvg-name="vox"  group-title="tv",vox
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15357.ts
+#EXTINF:0, tvg-id="ntv.de" tvg-logo="Logo N/A" tvg-name="ntv"  group-title="tv",ntv
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15365.ts
+#EXTINF:0, tvg-id="welt.de" tvg-logo="Logo N/A" tvg-name="welt"  group-title="tv",welt
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15379.ts
+#EXTINF:0, tvg-id="SkySportNewsHD.de" tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/6422.jpg?24831" tvg-name="s-news"  group-title="tv",s-news
+http://absuqvet.top/live/5a13edd71fc4/5e3c120556/340492.ts
+#EXTINF:0, tvg-id="EuronewsDE.nws" tvg-logo="Logo N/A" tvg-name="euronews"  group-title="tv",euronews
+http://line.mytvtvone.com/live/94KCNL/14UDYG/1025191.ts
+#EXTINF:0, tvg-id="KabelEinsDoku.de" tvg-logo="Logo N/A" tvg-name="kabel eins doku"  group-title="tv",kabel eins doku
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15360.ts
+#EXTINF:0, tvg-id="N24Doku.de" tvg-logo="Logo N/A" tvg-name="n24 doku"  group-title="tv",n24 doku
+http://line.mytvtvone.com/live/94KCNL/14UDYG/1025152.ts
+#EXTINF:0, tvg-id="CuriosityChannel.de" tvg-logo="Logo N/A" tvg-name="curiosity channel"  group-title="tv",curiosity channel
+http://line.mytvtvone.com/live/94KCNL/14UDYG/1025262.ts
+#EXTINF:0, tvg-id="CrimeInvestigation.de" tvg-logo="Logo N/A" tvg-name="crime+ investigation"  group-title="tv",crime+ investigation
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15431.ts
+#EXTINF:0, tvg-id="discoverychannel.de" tvg-logo="Logo N/A" tvg-name="discovery"  group-title="tv",discovery
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15430.ts
+#EXTINF:0, tvg-id="HistoryChannel.de" tvg-logo="Logo N/A" tvg-name="history"  group-title="tv",history
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15432.ts
+#EXTINF:0, tvg-id="NatGeoHD.de" tvg-logo="Logo N/A" tvg-name="nat geo"  group-title="tv",nat geo
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15428.ts
+#EXTINF:0, tvg-id="NatGeoWild.de" tvg-logo="Logo N/A" tvg-name="nat geo wild"  group-title="tv",nat geo wild
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15429.ts
+#EXTINF:0, tvg-id="geotv.de" tvg-logo="Logo N/A" tvg-name="geo"  group-title="tv",geo
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15434.ts
+#EXTINF:0, tvg-id="AnimalPlanet.de" tvg-logo="Logo N/A" tvg-name="animal planet"  group-title="tv",animal planet
+http://line.mytvtvone.com/live/94KCNL/14UDYG/1280598.ts
+#EXTINF:0, tvg-id="SkyDocumentaries.de" tvg-logo="Logo N/A" tvg-name="sky docu"  group-title="tv",sky docu
+http://line.mytvtvone.com/live/94KCNL/14UDYG/1025248.ts
+#EXTINF:0, tvg-id="SkyNature.de" tvg-logo="Logo N/A" tvg-name="sky nature"  group-title="tv",sky nature
+http://line.mytvtvone.com/live/94KCNL/14UDYG/1025249.ts
+#EXTINF:0, tvg-id="sixx.de" tvg-logo="Logo N/A" tvg-name="sixx"  group-title="tv",sixx
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15363.ts
+#EXTINF:0, tvg-id="prosiebenmaxx.de" tvg-logo="Logo N/A" tvg-name="prosieben maxx"  group-title="tv",prosieben maxx
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15355.ts
+#EXTINF:0, tvg-id="sat1gold.de" tvg-logo="Logo N/A" tvg-name="sat.1 gold"  group-title="tv",sat.1 gold
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15352.ts
+#EXTINF:0, tvg-id="rbbBerlin.de" tvg-logo="Logo N/A" tvg-name="rbb"  group-title="tv",rbb
+http://line.mytvtvone.com/live/94KCNL/14UDYG/1025171.ts
+#EXTINF:0, tvg-id="NDRFernsehen.de" tvg-logo="Logo N/A" tvg-name="ndr"  group-title="tv",ndr
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15367.ts
+#EXTINF:0, tvg-id="HRFernsehen.de" tvg-logo="Logo N/A" tvg-name="hr"  group-title="tv",hr
+http://line.mytvtvone.com/live/94KCNL/14UDYG/349.ts
+#EXTINF:0, tvg-id="SWRFernsehen.de" tvg-logo="Logo N/A" tvg-name="swr"  group-title="tv",swr
+http://line.mytvtvone.com/live/94KCNL/14UDYG/174239.ts
+#EXTINF:0, tvg-id="BRFernsehen.de" tvg-logo="Logo N/A" tvg-name="br"  group-title="tv",br
+http://line.mytvtvone.com/live/94KCNL/14UDYG/1025173.ts
+#EXTINF:0, tvg-id="MDRS-Anhalt.de" tvg-logo="Logo N/A" tvg-name="mdr"  group-title="tv",mdr
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15380.ts
+#EXTINF:0, tvg-id="zdfinfo.de" tvg-logo="Logo N/A" tvg-name="zdf info"  group-title="tv",zdf info
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15375.ts
+#EXTINF:0, tvg-id="zdfneo.de" tvg-logo="Logo N/A" tvg-name="zdf neo"  group-title="tv",zdf neo
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15374.ts
+#EXTINF:0, tvg-id="tagesschau24.de" tvg-logo="Logo N/A" tvg-name="tagesschau24"  group-title="tv",tagesschau24
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15368.ts
+#EXTINF:0, tvg-id="arte.de" tvg-logo="Logo N/A" tvg-name="arte"  group-title="tv",arte
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15362.ts
+#EXTINF:0, tvg-id="3sat.de" tvg-logo="Logo N/A" tvg-name="3sat"  group-title="tv",3sat
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15364.ts
+#EXTINF:0, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="sky crime"  group-title="tv",sky crime
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15438.ts
+#EXTINF:0, tvg-id="nitro.de" tvg-logo="Logo N/A" tvg-name="nitro"  group-title="tv",nitro
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15372.ts
+#EXTINF:0, tvg-id="tele5.de" tvg-logo="Logo N/A" tvg-name="tele 5"  group-title="tv",tele 5
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15377.ts
+#EXTINF:0, tvg-id="kabeleinsclassics.de" tvg-logo="Logo N/A" tvg-name="kabel eins classics"  group-title="tv",kabel eins classics
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15361.ts
+#EXTINF:0, tvg-id="ARD-One.de" tvg-logo="Logo N/A" tvg-name="one"  group-title="tv",one
+http://line.mytvtvone.com/live/94KCNL/14UDYG/221950.ts
+#EXTINF:0, tvg-id="ARD-alpha.de" tvg-logo="Logo N/A" tvg-name="ard-alpha"  group-title="tv",ard-alpha
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15369.ts
+#EXTINF:0, tvg-id="phoenix.de" tvg-logo="Logo N/A" tvg-name="phoenix"  group-title="tv",phoenix
+http://line.mytvtvone.com/live/94KCNL/14UDYG/708702.ts
+#EXTINF:0, tvg-id="Anixe.de" tvg-logo="Logo N/A" tvg-name="anixe+"  group-title="tv",anixe+
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15378.ts
+#EXTINF:0, tvg-id="rtlcrime.de" tvg-logo="Logo N/A" tvg-name="rtl crime"  group-title="tv",rtl crime
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15370.ts
+#EXTINF:0, tvg-id="rtlliving.de" tvg-logo="Logo N/A" tvg-name="rtl living"  group-title="tv",rtl living
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15373.ts
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13784.png?ver=82940" tvg-name="one terra"  group-title="tv",one terra
+http://absuqvet.top/live/5a13edd71fc4/5e3c120556/1565553.ts
+#EXTINF:0, tvg-id="ORF1.at" tvg-logo="Logo N/A" tvg-name="orf"  group-title="tv",orf
+http://line.mytvtvone.com/live/94KCNL/14UDYG/2395.ts
+#EXTINF:0, tvg-id="ORF2.at" tvg-logo="Logo N/A" tvg-name="orf 2"  group-title="tv",orf 2
+http://line.mytvtvone.com/live/94KCNL/14UDYG/2394.ts
+#EXTINF:0, tvg-id="ORF3.at" tvg-logo="Logo N/A" tvg-name="orf 3"  group-title="tv",orf 3
+http://line.mytvtvone.com/live/94KCNL/14UDYG/2387.ts
+#EXTINF:0, tvg-id="ATV.de" tvg-logo="Logo N/A" tvg-name="atv"  group-title="tv",atv
+http://line.mytvtvone.com/live/94KCNL/14UDYG/2385.ts
+#EXTINF:0, tvg-id="ATV2.at" tvg-logo="Logo N/A" tvg-name="atv 2"  group-title="tv",atv 2
+http://line.mytvtvone.com/live/94KCNL/14UDYG/2384.ts
+#EXTINF:0, tvg-id="Puls4.at" tvg-logo="Logo N/A" tvg-name="puls 4"  group-title="tv",puls 4
+http://line.mytvtvone.com/live/94KCNL/14UDYG/2381.ts
+#EXTINF:0, tvg-id="Puls24.at" tvg-logo="Logo N/A" tvg-name="puls 24"  group-title="tv",puls 24
+http://line.mytvtvone.com/live/94KCNL/14UDYG/2380.ts
+#EXTINF:0, tvg-id="SchauTV.at" tvg-logo="Logo N/A" tvg-name="kurier tv"  group-title="tv",kurier tv
+http://line.mytvtvone.com/live/94KCNL/14UDYG/393737.ts
+#EXTINF:0, tvg-id="ServusTV.at" tvg-logo="Logo N/A" tvg-name="servus tv"  group-title="tv",servus tv
+http://line.mytvtvone.com/live/94KCNL/14UDYG/393746.ts
+#EXTINF:0, tvg-id="VOXup.de" tvg-logo="Logo N/A" tvg-name="voxup"  group-title="tv",voxup
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15358.ts
+#EXTINF:0, tvg-id="RTLup.de" tvg-logo="Logo N/A" tvg-name="rtl up"  group-title="tv",rtl up
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15371.ts
+#EXTINF:0, tvg-id="skykrimi.de" tvg-logo="Logo N/A" tvg-name="sky krimi"  group-title="tv",sky krimi
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15414.ts
+#EXTINF:0, tvg-id="syfy.de" tvg-logo="Logo N/A" tvg-name="syfy"  group-title="tv",syfy
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15396.ts
+#EXTINF:0, tvg-id="Universal.de" tvg-logo="Logo N/A" tvg-name="universal tv"  group-title="tv",universal tv
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15400.ts
+#EXTINF:0, tvg-id="warnertvcomedy.de" tvg-logo="Logo N/A" tvg-name="warner tv comedy"  group-title="tv",warner tv comedy
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15394.ts
+#EXTINF:0, tvg-id="warnertvfilm.de" tvg-logo="Logo N/A" tvg-name="warner tv film"  group-title="tv",warner tv film
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15393.ts
+#EXTINF:0, tvg-id="warnertvserie.de" tvg-logo="Logo N/A" tvg-name="warner tv serie"  group-title="tv",warner tv serie
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15395.ts
+#EXTINF:0, tvg-id="sky1.de" tvg-logo="Logo N/A" tvg-name="sky one"  group-title="tv",sky one
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15403.ts
+#EXTINF:0, tvg-id="skyshowcase.de" tvg-logo="Logo N/A" tvg-name="sky showcase"  group-title="tv",sky showcase
+http://line.mytvtvone.com/live/94KCNL/14UDYG/211881.ts
+#EXTINF:0, tvg-id="skycinemaaction.de" tvg-logo="Logo N/A" tvg-name="sky cinema action"  group-title="tv",sky cinema action
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15406.ts
+#EXTINF:0, tvg-id="skycinemaclassics.de" tvg-logo="Logo N/A" tvg-name="sky cinema classics"  group-title="tv",sky cinema classics
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15411.ts
+#EXTINF:0, tvg-id="skycinemafamily.de" tvg-logo="Logo N/A" tvg-name="sky cinema family"  group-title="tv",sky cinema family
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15410.ts
+#EXTINF:0, tvg-id="skycinemapremieren.de" tvg-logo="Logo N/A" tvg-name="sky cinema premieren"  group-title="tv",sky cinema premieren
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15404.ts
+#EXTINF:0, tvg-id="SkyCinemaHighlights.de" tvg-logo="Logo N/A" tvg-name="sky cinema highlight"  group-title="tv",sky cinema highlight
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15409.ts
+#EXTINF:0, tvg-id="skyatlantic.de" tvg-logo="Logo N/A" tvg-name="sky atlantic"  group-title="tv",sky atlantic
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15413.ts
+#EXTINF:0, tvg-id="13thstreet.de" tvg-logo="Logo N/A" tvg-name="13th street"  group-title="tv",13th street
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15392.ts
+#EXTINF:0, tvg-id="sat1emotions.de" tvg-logo="Logo N/A" tvg-name="sat.1 emotions"  group-title="tv",sat.1 emotions
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15353.ts
+#EXTINF:0, tvg-id="prosiebenfun.de" tvg-logo="Logo N/A" tvg-name="prosieben fun"  group-title="tv",prosieben fun
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15356.ts
+#EXTINF:0, tvg-id="SciFi.de" tvg-logo="Logo N/A" tvg-name="sky sc-fi"  group-title="tv",sky sc-fi
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15415.ts
+#EXTINF:0, tvg-id="axnwhite.de" tvg-logo="Logo N/A" tvg-name="axn white"  group-title="tv",axn white
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15397.ts
+#EXTINF:0, tvg-id="axnblack.de" tvg-logo="Logo N/A" tvg-name="axn black"  group-title="tv",axn black
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15398.ts
+#EXTINF:0, tvg-id="kinowelttv.de" tvg-logo="Logo N/A" tvg-name="kinowelt"  group-title="tv",kinowelt
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15399.ts
+#EXTINF:0, tvg-id="romancetv.de" tvg-logo="Logo N/A" tvg-name="romance tv"  group-title="tv",romance tv
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15401.ts
+#EXTINF:0, tvg-id="SpiegelGeschichte.de" tvg-logo="Logo N/A" tvg-name="spiegel geschichte"  group-title="tv",spiegel geschichte
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15437.ts
+#EXTINF:0, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="eurosport 1"  group-title="tv",eurosport 1
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15419.ts
+#EXTINF:0, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="eurosport 2"  group-title="tv",eurosport 2
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15420.ts
+#EXTINF:0, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="sport digital fussball"  group-title="tv",sport digital fussball
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15423.ts
+#EXTINF:0, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="sport 1"  group-title="tv",sport 1
+http://line.mytvtvone.com/live/94KCNL/14UDYG/15421.ts
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="qvc f"  group-title="tv",qvc f
+http://line.mytvtvone.com/live/94KCNL/14UDYG/1025409.ts
+#EXTINF:0, tvg-id="QVCStyle.de" tvg-logo="Logo N/A" tvg-name="qvc zwei f"  group-title="tv",qvc zwei f
+http://line.mytvtvone.com/live/94KCNL/14UDYG/1025456.ts
+#EXTINF:0, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="alaram fur cobra 11"  group-title="tv",alaram fur cobra 11
+http://line.mytvtvone.com/live/94KCNL/14UDYG/893923.ts
+#EXTINF:0, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="4 räume 1 deal"  group-title="tv",4 räume 1 deal
+http://line.mytvtvone.com/live/94KCNL/14UDYG/893930.ts
+#EXTINF:0, tvg-id="DF1.de" tvg-logo="Logo N/A" tvg-name="df1"  group-title="tv",df1
+http://line.mytvtvone.com/live/94KCNL/14UDYG/1025146.ts
+#EXTINF:0, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="servus tv"  group-title="tv",servus tv
+http://line.mytvtvone.com/live/94KCNL/14UDYG/1025392.ts
+#EXTINF:0, tvg-id="RTS1.rs" tvg-logo="Logo N/A" tvg-name="rts 1"  group-title="srb",rts 1
+http://line.mytvtvone.com/live/94KCNL/14UDYG/787.ts
+#EXTINF:0, tvg-id="RTS2.rs" tvg-logo="Logo N/A" tvg-name="rts 2"  group-title="srb",rts 2
+http://line.mytvtvone.com/live/94KCNL/14UDYG/785.ts
+#EXTINF:0, tvg-id="RTS3.rs" tvg-logo="Logo N/A" tvg-name="rts 3"  group-title="srb",rts 3
+http://line.mytvtvone.com/live/94KCNL/14UDYG/783.ts
+#EXTINF:0, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="blic tv"  group-title="srb",blic tv
+http://line.mytvtvone.com/live/94KCNL/14UDYG/303346.ts
+#EXTINF:0, tvg-id="RTSTrezor.rs" tvg-logo="Logo N/A" tvg-name="rts trezor"  group-title="srb",rts trezor
+http://line.mytvtvone.com/live/94KCNL/14UDYG/780.ts
+#EXTINF:0, tvg-id="RTSSvet.rs" tvg-logo="Logo N/A" tvg-name="rts svet"  group-title="srb",rts svet
+http://line.mytvtvone.com/live/94KCNL/14UDYG/779.ts
+#EXTINF:0, tvg-id="RTSZivot.rs" tvg-logo="Logo N/A" tvg-name="rts zivot"  group-title="srb",rts zivot
+http://line.mytvtvone.com/live/94KCNL/14UDYG/778.ts
+#EXTINF:0, tvg-id="RTSKolo.rs" tvg-logo="Logo N/A" tvg-name="rts kolo"  group-title="srb",rts kolo
+http://line.mytvtvone.com/live/94KCNL/14UDYG/776.ts
+#EXTINF:0, tvg-id="RTSMuzika.rs" tvg-logo="Logo N/A" tvg-name="rts muzika"  group-title="srb",rts muzika
+http://line.mytvtvone.com/live/94KCNL/14UDYG/775.ts
+#EXTINF:0, tvg-id="B92.rs" tvg-logo="Logo N/A" tvg-name="b92"  group-title="srb",b92
+http://line.mytvtvone.com/live/94KCNL/14UDYG/303339.ts
+#EXTINF:0, tvg-id="N1.rs" tvg-logo="Logo N/A" tvg-name="n1 tv"  group-title="srb",n1 tv
+http://line.mytvtvone.com/live/94KCNL/14UDYG/760.ts
+#EXTINF:0, tvg-id="Nova.rs" tvg-logo="Logo N/A" tvg-name="nova"  group-title="srb",nova
+http://line.mytvtvone.com/live/94KCNL/14UDYG/759.ts
+#EXTINF:0, tvg-id="happytv.sr" tvg-logo="Logo N/A" tvg-name="happy tv"  group-title="srb",happy tv
+http://line.mytvtvone.com/live/94KCNL/14UDYG/764.ts
+#EXTINF:0, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="happy zivot"  group-title="srb",happy zivot
+http://line.mytvtvone.com/live/94KCNL/14UDYG/559372.ts
+#EXTINF:0, tvg-id="Prva.rs" tvg-logo="Logo N/A" tvg-name="prva"  group-title="srb",prva
+http://line.mytvtvone.com/live/94KCNL/14UDYG/774.ts
+#EXTINF:0, tvg-id="PrvaPlus.rs" tvg-logo="Logo N/A" tvg-name="prva plus"  group-title="srb",prva plus
+http://line.mytvtvone.com/live/94KCNL/14UDYG/773.ts
+#EXTINF:0, tvg-id="PrvaMAX.rs" tvg-logo="Logo N/A" tvg-name="prva max"  group-title="srb",prva max
+http://line.mytvtvone.com/live/94KCNL/14UDYG/772.ts
+#EXTINF:0, tvg-id="PrvaKick.rs" tvg-logo="Logo N/A" tvg-name="prva kick"  group-title="srb",prva kick
+http://line.mytvtvone.com/live/94KCNL/14UDYG/771.ts
+#EXTINF:0, tvg-id="PrvaWorld.rs" tvg-logo="Logo N/A" tvg-name="prva world"  group-title="srb",prva world
+http://line.mytvtvone.com/live/94KCNL/14UDYG/770.ts
+#EXTINF:0, tvg-id="PrvaFiles.rs" tvg-logo="Logo N/A" tvg-name="prva files"  group-title="srb",prva files
+http://line.mytvtvone.com/live/94KCNL/14UDYG/769.ts
+#EXTINF:0, tvg-id="PrvaLife.rs" tvg-logo="Logo N/A" tvg-name="prva life"  group-title="srb",prva life
+http://line.mytvtvone.com/live/94KCNL/14UDYG/768.ts
+#EXTINF:0, tvg-id="RTV1.rs" tvg-logo="Logo N/A" tvg-name="rtv vojvodina 1"  group-title="srb",rtv vojvodina 1
+http://line.mytvtvone.com/live/94KCNL/14UDYG/766.ts
+#EXTINF:0, tvg-id="TanjugTV.rs" tvg-logo="Logo N/A" tvg-name="tanjug"  group-title="srb",tanjug
+http://line.mytvtvone.com/live/94KCNL/14UDYG/559374.ts
+#EXTINF:0, tvg-id="StudioB.rs" tvg-logo="Logo N/A" tvg-name="studio b"  group-title="srb",studio b
+http://line.mytvtvone.com/live/94KCNL/14UDYG/559375.ts
+#EXTINF:0, tvg-id="NarodnaTV.rs" tvg-logo="Logo N/A" tvg-name="narodna tv"  group-title="srb",narodna tv
+http://line.mytvtvone.com/live/94KCNL/14UDYG/559376.ts
+#EXTINF:0, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="tv istok"  group-title="srb",tv istok
+http://line.mytvtvone.com/live/94KCNL/14UDYG/303345.ts
+#EXTINF:0, tvg-id="RTVNoviPazar.rs" tvg-logo="Logo N/A" tvg-name="novi pazar tv"  group-title="srb",novi pazar tv
+http://line.mytvtvone.com/live/94KCNL/14UDYG/303347.ts
+#EXTINF:0, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="tv leskovac"  group-title="srb",tv leskovac
+http://line.mytvtvone.com/live/94KCNL/14UDYG/303349.ts
+#EXTINF:0, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="rtv palma"  group-title="srb",rtv palma
+http://line.mytvtvone.com/live/94KCNL/14UDYG/303350.ts
+#EXTINF:0, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="kurir tv"  group-title="srb",kurir tv
+http://line.mytvtvone.com/live/94KCNL/14UDYG/303351.ts
+#EXTINF:0, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="red tv"  group-title="srb",red tv
+http://line.mytvtvone.com/live/94KCNL/14UDYG/303352.ts
+#EXTINF:0, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="agro tv"  group-title="srb",agro tv
+http://line.mytvtvone.com/live/94KCNL/14UDYG/303353.ts
+#EXTINF:0, tvg-id="K1.rs" tvg-logo="Logo N/A" tvg-name="k1"  group-title="srb",k1
+http://line.mytvtvone.com/live/94KCNL/14UDYG/559378.ts
+#EXTINF:0, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="insajder tv"  group-title="srb",insajder tv
+http://line.mytvtvone.com/live/94KCNL/14UDYG/1351250.ts
+#EXTINF:0, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="informer tv"  group-title="srb",informer tv
+http://line.mytvtvone.com/live/94KCNL/14UDYG/1351249.ts
+#EXTINF:0, tvg-id="euronews.rs" tvg-logo="Logo N/A" tvg-name="euronews serbia"  group-title="srb",euronews serbia
+http://line.mytvtvone.com/live/94KCNL/14UDYG/559377.ts
+#EXTINF:0, tvg-id="RTV2.rs" tvg-logo="Logo N/A" tvg-name="rtv vojvodina 2"  group-title="srb",rtv vojvodina 2
+http://line.mytvtvone.com/live/94KCNL/14UDYG/765.ts
+#EXTINF:0, tvg-id="Pink1.rs" tvg-logo="Logo N/A" tvg-name="pink"  group-title="srb",pink
+http://line.mytvtvone.com/live/94KCNL/14UDYG/1023.ts
+#EXTINF:0, tvg-id="Pink2.rs" tvg-logo="Logo N/A" tvg-name="red tv (pink 2)"  group-title="srb",red tv (pink 2)
+http://line.mytvtvone.com/live/94KCNL/14UDYG/1021.ts
+#EXTINF:0, tvg-id="Pink3.rs" tvg-logo="Logo N/A" tvg-name="pink 3 info"  group-title="srb",pink 3 info
+http://line.mytvtvone.com/live/94KCNL/14UDYG/1020.ts
+#EXTINF:0, tvg-id="PinkZabava.rs" tvg-logo="Logo N/A" tvg-name="pink zabava"  group-title="srb",pink zabava
+http://line.mytvtvone.com/live/94KCNL/14UDYG/983.ts
+#EXTINF:0, tvg-id="PinkShow.rs" tvg-logo="Logo N/A" tvg-name="pink show"  group-title="srb",pink show
+http://line.mytvtvone.com/live/94KCNL/14UDYG/984.ts
+#EXTINF:0, tvg-id="Eurosport1.rs" tvg-logo="Logo N/A" tvg-name="eurosport 1"  group-title="srb",eurosport 1
+http://line.mytvtvone.com/live/94KCNL/14UDYG/1085.ts
+#EXTINF:0, tvg-id="Eurosport2.rs" tvg-logo="Logo N/A" tvg-name="eurosport 2"  group-title="srb",eurosport 2
+http://line.mytvtvone.com/live/94KCNL/14UDYG/1084.ts
+#EXTINF:0, tvg-id="FightNetwork.rs" tvg-logo="Logo N/A" tvg-name="fight network"  group-title="srb",fight network
+http://line.mytvtvone.com/live/94KCNL/14UDYG/1083.ts
+#EXTINF:0, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="fight box"  group-title="srb",fight box
+http://line.mytvtvone.com/live/94KCNL/14UDYG/1082.ts
+#EXTINF:0, tvg-id="ext" tvg-logo="Logo N/A" tvg-name="pink n roll"  group-title="srb",pink n roll
+http://line.mytvtvone.com/live/94KCNL/14UDYG/974.ts
+#EXTINF:0, tvg-id="PinkKoncert.rs" tvg-logo="Logo N/A" tvg-name="pink koncert"  group-title="srb",pink koncert
+http://line.mytvtvone.com/live/94KCNL/14UDYG/973.ts
+#EXTINF:0, tvg-id="12db6252-019b-4ca1-b169-86e86d5fa80b" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • startrek - the next generation"  group-title="24/7",24/7 • startrek - the next generation
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/442002.ts
+#EXTINF:0, tvg-id="d4323715-6658-4b63-85c3-f0537ff9ce35" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • hardcore pawn"  group-title="24/7",24/7 • hardcore pawn
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/447696.ts
+#EXTINF:0, tvg-id="8628f73c-eb1a-45c7-9c7d-2ffb3f124182" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • horror trips"  group-title="24/7",24/7 • horror trips
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/447978.ts
+#EXTINF:0, tvg-id="787108cd-f663-4c23-9ea6-5883b588ed42" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • body bizarre"  group-title="24/7",24/7 • body bizarre
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/424139.ts
+#EXTINF:0, tvg-id="90ce64dd-e7f2-4062-b215-79f03617c1dd" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • mein leben mit 300kg"  group-title="24/7",24/7 • mein leben mit 300kg
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/395335.ts
+#EXTINF:0, tvg-id="ecd5ea88-7464-4173-a514-05257010f848" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • fang des lebens"  group-title="24/7",24/7 • fang des lebens
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/395208.ts
+#EXTINF:0, tvg-id="0e0cc237-3c91-46d7-a746-e7bc46a1e99e" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • naked survival"  group-title="24/7",24/7 • naked survival
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/338536.ts
+#EXTINF:0, tvg-id="14b29c67-95b8-4cc8-876f-e1fccc6fcec8" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • galileo"  group-title="24/7",24/7 • galileo
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/342861.ts
+#EXTINF:0, tvg-id="f77f5926-f06e-49d9-861f-5c04edfa5161" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • seinfeld"  group-title="24/7",24/7 • seinfeld
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/448718.ts
+#EXTINF:0, tvg-id="a03149cf-21b0-49dc-a1cd-1bdd358d4f44" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • cheers"  group-title="24/7",24/7 • cheers
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/447702.ts
+#EXTINF:0, tvg-id="f20828e7-00e0-4964-b095-6886e15a97dc" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • das survival duo"  group-title="24/7",24/7 • das survival duo
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/354505.ts
+#EXTINF:0, tvg-id="b3a9af83-cdc0-4874-b8e7-edbd25bc968a" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • my name is earl"  group-title="24/7",24/7 • my name is earl
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/450067.ts
+#EXTINF:0, tvg-id="b68777df-992e-478d-995c-839de4e3c80d" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • border control"  group-title="24/7",24/7 • border control
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/446332.ts
+#EXTINF:0, tvg-id="f28ff2fc-b971-4b50-98a6-a652cc8854d0" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • goodbye deutschland"  group-title="24/7",24/7 • goodbye deutschland
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/424135.ts
+#EXTINF:0, tvg-id="62453ef9-3aba-4108-a459-cc695f5df922" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • ufc"  group-title="24/7",24/7 • ufc
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/350066.ts
+#EXTINF:0, tvg-id="8cd28de7-cecd-41e0-821b-ac3263fc9eaf" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • hotel impossible"  group-title="24/7",24/7 • hotel impossible
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/424137.ts
+#EXTINF:0, tvg-id="013b3b7a-0686-4f0c-b4da-4ad60a635d4a" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • columbo"  group-title="24/7",24/7 • columbo
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/395203.ts
+#EXTINF:0, tvg-id="d2c9bd6b-7fa8-49c5-b022-04d4335e479c" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • derrick"  group-title="24/7",24/7 • derrick
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/475284.ts
+#EXTINF:0, tvg-id="5114042d-4975-4073-a515-39d3e2923e8a" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • besseresser - tricks der lebensmittelindustrie"  group-title="24/7",24/7 • besseresser - tricks der lebensmittelindustrie
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/450090.ts
+#EXTINF:0, tvg-id="741fe205-0111-41cf-b1ad-28fa8c522dae" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • drogen im visier"  group-title="24/7",24/7 • drogen im visier
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/447697.ts
+#EXTINF:0, tvg-id="26880739-6fe9-4013-b8d2-6ce574c84367" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • die zwangsvollstrecker"  group-title="24/7",24/7 • die zwangsvollstrecker
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/475276.ts
+#EXTINF:0, tvg-id="bd24f0b3-d497-4f45-89a2-46505900599d" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • joko & klaas das duell um die welt"  group-title="24/7",24/7 • joko & klaas das duell um die welt
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/352080.ts
+#EXTINF:0, tvg-id="bd24f0b3-d497-4f45-89a2-46505900599d" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • joko & klaas geg. pro7"  group-title="24/7",24/7 • joko & klaas geg. pro7
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/395210.ts
+#EXTINF:0, tvg-id="07387a46-4ba0-4949-a88f-2c0375a9e9ed" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • naked survival xxl"  group-title="24/7",24/7 • naked survival xxl
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/398638.ts
+#EXTINF:0, tvg-id="c74a041f-59bd-4851-ba44-70f57b5c3c8c" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • terrax"  group-title="24/7",24/7 • terrax
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/342862.ts
+#EXTINF:0, tvg-id="6cd91b0d-b7ff-4f4e-a9fa-f12edf92a0a3" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • achtung abzocke"  group-title="24/7",24/7 • achtung abzocke
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/348705.ts
+#EXTINF:0, tvg-id="4b4c0f97-869a-4eda-bc51-c1ccba256b9a" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • die ludolfs"  group-title="24/7",24/7 • die ludolfs
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/475278.ts
+#EXTINF:0, tvg-id="9dea1048-1d15-4273-b0bf-b09ff05ca333" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • unsere kleine farm"  group-title="24/7",24/7 • unsere kleine farm
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/448003.ts
+#EXTINF:0, tvg-id="bfab5fb4-acc2-47c6-86a5-80ce87c37b40" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • dallas"  group-title="24/7",24/7 • dallas
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/447701.ts
+#EXTINF:0, tvg-id="39739c3e-e194-4a5b-9d8f-95ea9851ce4b" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • hoer mal wer da haemmert"  group-title="24/7",24/7 • hoer mal wer da haemmert
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/395184.ts
+#EXTINF:0, tvg-id="673463a7-0529-420e-a003-2a101350475e" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • das a-team"  group-title="24/7",24/7 • das a-team
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/395207.ts
+#EXTINF:0, tvg-id="943fc6c1-5539-4358-adf8-0971c3d8a7ee" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • julia leischik sucht"  group-title="24/7",24/7 • julia leischik sucht
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/395211.ts
+#EXTINF:0, tvg-id="a3d657d3-5128-434f-a0b3-8bcc8e7d0d1a" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • hausmeister krause"  group-title="24/7",24/7 • hausmeister krause
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/450072.ts
+#EXTINF:0, tvg-id="21020cd8-36c6-4248-bbe1-e936fd4d75c7" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • die schwarzwaldklinik"  group-title="24/7",24/7 • die schwarzwaldklinik
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/450082.ts
+#EXTINF:0, tvg-id="271b1379-130c-4358-9258-984b099a4df3" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • löwenzahn"  group-title="24/7",24/7 • löwenzahn
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/448711.ts
+#EXTINF:0, tvg-id="a2092cb6-799e-4915-8869-45244df8fa1f" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • tatort"  group-title="24/7",24/7 • tatort
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/349697.ts
+#EXTINF:0, tvg-id="85398e4c-747c-4a40-844f-e5b5d44d77b8" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • knight rider"  group-title="24/7",24/7 • knight rider
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/424132.ts
+#EXTINF:0, tvg-id="c3c41e4d-100a-45a5-b571-895e7ca2c0b6" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • raumschiff enterprise"  group-title="24/7",24/7 • raumschiff enterprise
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/424142.ts
+#EXTINF:0, tvg-id="4a1a4ac6-0455-475d-b55f-31b503c78608" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • expeditionen ins tierreich"  group-title="24/7",24/7 • expeditionen ins tierreich
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/450079.ts
+#EXTINF:0, tvg-id="7de58d53-a497-41ca-9480-717240ab65e8" tvg-logo="https://i.ibb.co/TRsSYmJ/Full-Logo-Transparent-No-Buffer-3.png" tvg-name="24/7 • rosins restaurants"  group-title="24/7",24/7 • rosins restaurants
+http://sero.cx:8080/live/u4b1914eb/NzAwTwCSgJUP/475274.ts
